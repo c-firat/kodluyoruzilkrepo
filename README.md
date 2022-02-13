@@ -6,7 +6,7 @@ Bu repo kodluyoruz ile frontend egitimi kapsamında açtığım ilk Repo
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/c-firat/kodluyoruzilkrepo
